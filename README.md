@@ -1,4 +1,5 @@
-modified by der-Frickler to work with single trigger/echo pin.
+modified by der-Frickler to work with single trigger/echo pin. You can now use the same pin for trigger and echo.
+e.g. UltraSonicDistanceSensor distanceSensor(D0, D0); on the ESP8266
 
 # Arduino library for HC-SR04 ultrasonic distance sensor.
 
