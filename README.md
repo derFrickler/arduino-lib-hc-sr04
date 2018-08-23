@@ -1,3 +1,5 @@
+modified by der-Frickler to work with single trigger/echo pin.
+
 # Arduino library for HC-SR04 ultrasonic distance sensor.
 
 HC-SR04 is an ultrasonic sensor that measures distances from 2 to 400cm.
